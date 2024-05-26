@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Anar Z. Yusifov, thoth291, Reanimates Site"
-date: 2021-05-14
+title: "Anar Z. Yusifov, thoth291, Garage Sell"
+date: 2024-05-25
 ---
 
 I'm selling some stuf.
